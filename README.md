@@ -145,3 +145,13 @@ Submit a Zip file in the following format to Blackboard by September 12th before
 The zip file should contain a folder with the same name as the zip file, and the folder inside should contain all code. For example `LASTNAME-CS395-HW2-Tab.zip --> LASTNAME-CS395-HW2-Tab --> (files or folders pertaining to code, such as newtab.html, /js/ )`.
 
 Please email us if you have any questions or need an extension. Late Submissions won't be accepted without prior approval.
+
+ ----------
+
+
+ Resources used:
+
+ How To Display Time On Website Using HTML CSS And JavaScript : https://www.youtube.com/watch?v=M2ZdOTuudH0&ab_channel=GreatStack
+
+ How to make your content editable in HTML ? : https://www.geeksforgeeks.org/how-to-make-your-content-editable-in-html/#
+
